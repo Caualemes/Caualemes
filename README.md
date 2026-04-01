@@ -1,55 +1,85 @@
-## 👨🏻‍💻 | Cauã Cristal Lemes
-
-Olá! Eu sou o **Cauã**, tenho **20 anos**, sou natural do **noroeste paulista** e estudante de **Tecnologia em Sistemas para Internet** no **IFSP**.  
-Apaixonado por tecnologia desde cedo, atuo principalmente com **desenvolvimento web**, com foco em **Front-End e UI/UX Design**, buscando sempre unir **estética, usabilidade e performance**.
-
-Tenho interesse em expandir meus conhecimentos em **Back-End e Bancos de Dados**, sou **comunicativo, curioso** e movido pelo aprendizado contínuo. Gosto de transformar ideias em **soluções digitais bem construídas**.
-
-📍 Penápolis • SP  
-🌐 [caualemes.com.br](https://www.caualemes.com.br)
+<img width="1080" height="565" alt="image" src="https://github.com/user-attachments/assets/5d483e92-5a34-4022-9a51-45884658ac05" />
+<div style="background-image: url('https://cdn.ferrari.com/cms/network/media/img/resize/5e3413abf248930ab70e7305-ferrari-scuderia-2002-schumacher-france-share?width=1080'); background-repeat: no-repeat; background-size: cover; width: 100%; height: 50px;">
+</div>
 
 ---
 
-### 🚀 | Áreas de Atuação
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Designer+and+Front-End+Developer;React+|+Tailwind+|+NestJS+|+Figma+|+Photoshop;loading...&background=151B23"/>
+</p>
 
-- Desenvolvimento Front-End
-- UI / UX Design
-- Criação de sites institucionais e landing pages
-- Integrações com APIs
-- Versionamento e boas práticas de código
 
----
 
-### 🧠 | Linguagens & Tecnologias
+<div align="center">
 
-<img align="left" alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="TailwindCSS" title="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="NestJS" title="NestJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img align="left" alt="NodeJS" title="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="C++" title="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Figma" title="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151B23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
+[![Instagram](https://img.shields.io/badge/Instagram-151B23?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
+[![Gmail](https://img.shields.io/badge/Gmail-151B23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
 
-<br/><br/>
+</div>
+
+<div align="center">
+
+</div>
+</div>
 
 ---
 
-### 📊 | Estatísticas do GitHub
+<p align="left">
+  <img src="https://i.pinimg.com/736x/d1/01/19/d10119eb9bed134f922202db6da39aba.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <p>Hey there! I'm Cau</p>
 
-<img src="https://metrics.lecoq.io/Caualemes?template=classic&languages=1&achievements=1&base.indepth=false&config.timezone=America/Sao_Paulo" />
+ Currently, I am focusing my studies on web development, with a strong interest in front-end technologies and user experience. Alongside my academic journey, I work as a designer, which allows me to create visually engaging and intuitive interfaces. I enjoy developing personal projects that combine design, usability, and modern web practices. As I approach the final year of my degree in Technology in Systems for Internet, I continue to improve my skills and explore new ways to deliver meaningful digital experiences.
+  <br><br>
+  </div>
+</p>
+
+<br clear="right">
+
+<div align="center">
+<h3>Technologies</h3>
+</div>
 
 ---
 
-### 🤝 | Vamos conversar?
+<br>
 
-Se quiser trocar ideia sobre tecnologia, projetos ou oportunidades:
+<div align="center">
 
-- 💼 LinkedIn: [linkedin.com/in/caualemes](https://linkedin.com/in/caualemes)
-- 🌐 Portfólio: [caualemes.com.br](https://www.caualemes.com.br)
 
+
+![C#](https://img.shields.io/badge/C%23-151B23?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-151B23?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-151B23?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-151B23?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-151B23?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-151B23?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-151B23?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-151B23?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-151B23?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+<h3>Statistics</h3>
+</div>
+
+---
+
+<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Caualemes&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=151B23&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caualemes&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
+</div>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caualemes&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+</div>

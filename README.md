@@ -1,76 +1,47 @@
 <img src="./img/banner-github.png" width="100%" />
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Designer+and+Front-End+Developer;React+|+Tailwind+|+NestJS+|+Figma+|+Photoshop;loading...&background=151B23"/>
-</p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151B23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caualemes/)
-[![Instagram](https://img.shields.io/badge/Instagram-151B23?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua.cristallemes/)
-[![Gmail](https://img.shields.io/badge/Gmail-151B23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.cristallemes@gmail.com)
-
-</div>
+<br>
 
 ---
+
+<br>
 
 <p align="left">
   <img src="./img/shadow.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   
-  <b>Hey there! I'm Cau 👋</b><br><br>
+  <h3>Olá! Eu sou o Cauã </h3><br><br>
 
-  Currently, I am focusing my studies on web development, with a strong interest in front-end technologies and user experience. Alongside my academic journey, I work as a designer, which allows me to create visually engaging and intuitive interfaces.
+  Atualmente, estou focando meus estudos em desenvolvimento web, com grande interesse em tecnologias front-end e experiência do usuário (UX). Em paralelo à minha trajetória acadêmica, atuo como designer, o que me permite criar interfaces intuitivas e visualmente atraentes.
 
-  I enjoy developing personal projects that combine design, usability, and modern web practices. As I approach the final year of my degree in Technology in Systems for Internet, I continue to improve my skills and explore new ways to deliver meaningful digital experiences.
+  Gosto de desenvolver projetos pessoais que combinam design, usabilidade e práticas modernas da web. Na reta final da minha graduação em Sistemas para Internet, sigo aprimorando minhas habilidades e explorando novas formas de entregar experiências digitais marcantes.
 </p>
 
 <br clear="right">
 
 ---
 
-<div align="center">
-  <h3>Technologies</h3>
-</div>
+<p align="left">
+
+<h3>Tecnologias</h3>
+
+</p>
 
 <br>
 
-<div align="center">
+<div align="left">
 
-![C#](https://img.shields.io/badge/C%23-151B23?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-151B23?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-151B23?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-151B23?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-151B23?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-151B23?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-151B23?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-151B23?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151B23?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-151B23?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-151B23?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-151B23?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-151B23?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-151B23?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151B23?style=for-the-badge&logo=postgresql&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-151B23?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05LjA4IDYuMTRjMS44IDAgMy4wNy45NyAzLjA3IDIuNzIgMCAxLjc3LTEuMjggMi44MS0zLjA3IDIuODFIOC4xMnY1LjY3SDUuMzdWNnptLS45NiAxLjk2djIuODFoLjc5YzEuMTIgMCAxLjctLjU3IDEuNy0xLjM5IDAtLjgyLS41OC0xLjQyLTEuNy0xLjQyeiIvPjxwYXRoIGQ9Ik0xOC42MyAxMS43M2MtLjI4LS4yNi0uODMtLjQ2LTEuNTctLjQ2LTEuMDcgMC0xLjU5LjU3LTEuNTkgMS4yMSAwIC44LjY0IDEuMDkgMS43NiAxLjUxIDEuNy42MyAyLjY2IDEuNDcgMi42NiAyLjk3IDAgMS45Ny0xLjU4IDMuMDQtMy40NyAzLjA0LTEuNzEgMC0yLjkyLS43Ny0zLjM1LTEuODFsMS44LTEuMTRjLjM1Ljc1IDEuMDIgMS4xMSAxLjY2IDEuMTEuOTQgMCAxLjQ2LS40NSAxLjQ2LTEuMTIgMC0uNzYtLjU4LTEuMDUtMS42Ny0xLjQ2LTEuNjctLjYxLTIuNzQtMS4zNS0yLjc0LTIuOTkgMC0xLjg0IDEuNDgtMi45NSAzLjI1LTIuOTUgMS41IDAgMi40Ny41OCAzLjAxIDEuNDJ6Ii8+PC9zdmc+)
 
 </div>
+
+<br>
 
 ---
-
-<div align="center">
-  <h3>Statistics</h3>
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Caualemes&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=151B23&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caualemes&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caualemes&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-</p>

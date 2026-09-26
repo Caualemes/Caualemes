@@ -7,7 +7,7 @@
 <br>
 
 <p align="left">
-  <img src="./img/shadow.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="./img/cl.png" align="right" width="180px" style="margin-left: 20px; border-radius: 15px;">
   
   <h3>Olá! Eu sou o Cauã </h3><br><br>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-151B23?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-151B23?style=for-the-badge&logo=html5&logoColor=white)
